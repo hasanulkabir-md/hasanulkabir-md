@@ -26,17 +26,17 @@
 ---
 
 ### 🌟 Featured Projects
-- 🔗 [**API Testing Framework**](https://github.com/yourusername/api-testing-framework) – Automated case generation and validation for APIs  
-- 🔗 [**Client Testing Automation**](https://github.com/yourusername/client-testing-automation) – UI automation with reusable modules  
-- 🔗 [**E-commerce Performance Testing**](https://github.com/yourusername/ecommerce-performance-testing) – Load testing & metrics analysis  
-- 🔗 [**QA Docs**](https://github.com/yourusername/qa-docs) – Test plans, bug reports, compliance checklists  
+- 🔗 [**API Testing Framework**](https://github.com/hasanulkabir-md/api-testing-framework) – Automated case generation and validation for APIs  
+- 🔗 [**Client Testing Automation**](https://github.com/hasanulkabir-md/client-testing-automation) – UI automation with reusable modules  
+- 🔗 [**E-commerce Performance Testing**](https://github.com/hasanulkabir-md/ecommerce-performance-testing) – Load testing & metrics analysis  
+- 🔗 [**QA Docs**](https://github.com/hasanulkabir-md/ecommerce-performance-testing/practice-docs) – Test plans, bug reports, compliance checklists  
 
 ---
 
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hasanulkabir-md)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanulkabir-md)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasanul.kabir@gmail.com)
 
 ---
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [hasanulkabir-md](https://github.com/hasanulkabir-md)
