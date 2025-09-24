@@ -1,11 +1,6 @@
 <div align="center">
 
 # Hello, I'm Md Hasanul Kabir 👋  
-🚀 Aspiring **Software Test Engineer** | 💻 Graduate Student in Computer Science  
-
----
-
-### 👋 Welcome to my GitHub Profile  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Test+Software+Engineer;Automation+Enthusiast;AI+and+Quality+Assurance)](https://git.io/typing-svg)
 
