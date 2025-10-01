@@ -28,8 +28,8 @@
 ### 🌟 Featured Projects
 - 🔗 [**API Testing Framework**](https://github.com/hasanulkabir-md/api-testing-framework) – Automated case generation and validation for APIs  
 - 🔗 [**Client Testing Automation**](https://github.com/hasanulkabir-md/client-testing-automation) – UI automation with reusable modules  
-- 🔗 [**E-commerce Performance Testing**](https://github.com/hasanulkabir-md/ecommerce-performance-testing) – Load testing & metrics analysis  
-- 🔗 [**QA Docs**](https://github.com/hasanulkabir-md/ecommerce-performance-testing/practice-docs) – Test plans, bug reports, compliance checklists  
+- 🔗 [**E-commerce Performance Testing**](https://github.com/hasanulkabir-md/ecommerce-perf-testing) – Load testing & metrics analysis  
+- 🔗 [**QA Docs**](https://github.com/hasanulkabir-md/ecommerce-perf-testing/practice-docs) – Test plans, bug reports, compliance checklists  
 
 ---
 
