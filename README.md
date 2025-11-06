@@ -26,7 +26,7 @@ Additionally, to integrate **software testing practices** into AI development fo
 ![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-FF6F00?style=flat)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-### 🧪 Software Testing & DevOps
+### 🧪 Software Testing
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
