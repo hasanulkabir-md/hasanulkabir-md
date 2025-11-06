@@ -2,7 +2,7 @@
 
 # Hello, I'm Md Hasanul Kabir 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Test+Software+Engineer;Automation+Enthusiast;AI+and+Quality+Assurance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Deep+Reinforcement+Learning+and+Multi+Agent ResearcherTest+Software+Engineer;Automation+Enthusiast;AI+and+Quality+Assurance)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,10 +10,9 @@
 
 ### 👨‍🎓 About Me
 - 🎓 Education: MSc in Computer Science & Technology @ Nanjing Normal University  
-- 🧪 Interests: Software Testing, QA Automation, AI in Testing, and Open Source  
-- 🛠️ Goal: To build reliable software systems and grow as a QA professional  
-
----
+- 🧪 Interests:Deep Reinforcement Learning (DRL),Multi-Agent Reinforcement Learning (MARL), Software Testing, QA Automation, AI in Testing, and Open Source  
+- 🛠️ Goal: To advance research in **Reinforcement Learning** and **Autonomous Systems**, focusing on building intelligent, adaptive agents capable of safe decision-making in dynamic environments.  
+Additionally, to integrate **software testing practices** into AI development for more reliable and reproducible systems.
 
 ### 🛠 Tech Stack
 
