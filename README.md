@@ -2,7 +2,7 @@
 
 # Hello, I'm Md Hasanul Kabir 👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&colors=1D9BF0&cursorColor=1D9BF0&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Deep+Reinforcement+Learning+%26+Multi-Agent+Researcher;Test+Software+Engineer;Automation+Enthusiast;AI+%26+Quality+Assurance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&colors=1D9BF0&cursorColor=1D9BF0&center=true&vCenter=true&width=700&padding=10&lines=Welcome+to+my+GitHub+Profile!;Deep+Reinforcement+Learning+%26+Multi-Agent+Researcher;Test+Software+Engineer;Automation+Enthusiast;AI+%26+Quality+Assurance)](https://git.io/typing-svg)
 
 </div>
 
