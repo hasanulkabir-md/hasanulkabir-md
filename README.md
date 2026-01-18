@@ -49,9 +49,5 @@ Additionally, to integrate **software testing practices** into AI development fo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hasanulkabir-md)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanulkabir-md)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasanul.kabir@gmail.com)
-
-### 💡 About
-I combine expertise in **Deep Reinforcement Learning** and **Software Testing** to build reliable, high-performance AI systems.  
-My research focuses on **video-based dynamic obstacle avoidance** and **multi-agent learning** — supported by a foundation in **QA automation**,and **API testing**.
 ---
 ⭐️ From [hasanulkabir-md](https://github.com/hasanulkabir-md)
